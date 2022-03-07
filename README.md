@@ -5,7 +5,9 @@
 # Hello! 👋
 My name is Phoenix.
 
-I am an aspiring Full-Stack Web Developer currently studying at BCIT. I am passionate about coding and use my experience in the design field to create a more usercentered development process(and to make things beautiful ✨). Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
+I am an aspiring Full-Stack Web Developer currently studying at BCIT. I am passionate about coding and use my experience in the design field to create a more usercentered development process(and to make things beautiful ✨). 
+
+#### Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
 
 
 ### Tools & Technologies 🔨 
