@@ -1,7 +1,13 @@
+[![Header](https://raw.githubusercontent.com/phoenixlai833/phoenixlai833/main/Screen%20Shot%202022-03-06%20at%2011.41.29%20PM.png
+ "Header")](https://phoenixlai.com/)
+
+# Hello 👋
+My name is Phoenix and I am an aspiring Full-Stack Web Developer currently studying at BCIT. I previously worked in the design industry and found myself passionate about coding. I strive to remove the language barrier between developer and designer to create a more fluid and usercentered product development process. Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
+
+### Tools 🔨 
 
 
-
-### Hi there 👋
+### Design ✨ 
 
 <!--
 **phoenixlai833/phoenixlai833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
