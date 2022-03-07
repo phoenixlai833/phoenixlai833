@@ -1,13 +1,26 @@
 [![Header](https://raw.githubusercontent.com/phoenixlai833/phoenixlai833/main/Screen%20Shot%202022-03-06%20at%2011.41.29%20PM.png
  "Header")](https://phoenixlai.com/)
+ 
 
-# Hello 👋
-My name is Phoenix and I am an aspiring Full-Stack Web Developer currently studying at BCIT. I previously worked in the design industry and found myself passionate about coding. I strive to remove the language barrier between developer and designer to create a more fluid and usercentered development process. Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
+<center>
+# Hello! 👋
+My name is Phoenix.
 
-### Tools 🔨 
+I am an aspiring Full-Stack Web Developer currently studying at BCIT. I am passionate about coding and use my experience in the design field to create a more usercentered development process(and to make things beautiful ✨). Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
+</center>
 
+### Tools & Technologies 🔨 
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-Express.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-Adobe%Creative%Suite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 
-### Design ✨ 
+<!-- ![](https://img.shields.io/badge/code-Javascript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 <!--
 **phoenixlai833/phoenixlai833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
