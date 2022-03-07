@@ -2,7 +2,7 @@
  "Header")](https://phoenixlai.com/)
 
 # Hello 👋
-My name is Phoenix and I am an aspiring Full-Stack Web Developer currently studying at BCIT. I previously worked in the design industry and found myself passionate about coding. I strive to remove the language barrier between developer and designer to create a more fluid and usercentered product development process. Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
+My name is Phoenix and I am an aspiring Full-Stack Web Developer currently studying at BCIT. I previously worked in the design industry and found myself passionate about coding. I strive to remove the language barrier between developer and designer to create a more fluid and usercentered development process. Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
 
 ### Tools 🔨 
 
