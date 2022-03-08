@@ -7,7 +7,7 @@
 # Hello! 👋
 I am an aspiring Full-Stack Web Developer currently studying at BCIT. I am passionate about coding and use past experience in the design world to create a more user-centered development process(and to make things beautiful ✨ of course). 
 
-## Get In Touch
+## Get In Touch 💌
 Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phoenix-lai/) or browse my [portfolio](https://phoenixlai.com/).
 
 
