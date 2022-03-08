@@ -1,7 +1,7 @@
-<!-- [![Header](https://raw.githubusercontent.com/phoenixlai833/phoenixlai833/main/Screen%20Shot%202022-03-06%20at%2011.41.29%20PM.png
+[![Header](https://raw.githubusercontent.com/phoenixlai833/phoenixlai833/main/githubHeader-Pl-02.png
  "Header")](https://phoenixlai.com/)
-  -->
- [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Phoenix%20Lai%20👩‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<!--  
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Phoenix%20Lai%20👩‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners) -->
 
 
 # Hello! 👋
